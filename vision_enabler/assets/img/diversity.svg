@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="857.692" height="785.216" viewBox="0 0 857.692 785.216">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Polygon_Copy_6" data-name="Polygon Copy 6" d="M240,11.547a40,40,0,0,1,40,0L500,138.564a40,40,0,0,1,20,34.641V427.239a40,40,0,0,1-20,34.641L280,588.9a40,40,0,0,1-40,0L20,461.88A40,40,0,0,1,0,427.239V173.205a40,40,0,0,1,20-34.641Z" fill="#313bd0"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Polygon_Copy" data-name="Polygon Copy" d="M51.136,1.642,83.864,20.514A12.254,12.254,0,0,1,90,31.129V68.871a12.254,12.254,0,0,1-6.136,10.615L51.136,98.358a12.286,12.286,0,0,1-12.273,0L6.136,79.486A12.254,12.254,0,0,1,0,68.871V31.129A12.254,12.254,0,0,1,6.136,20.514L38.864,1.642A12.286,12.286,0,0,1,51.136,1.642Z" transform="translate(0)" fill="#22e0d7"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Polygon_Copy-2" data-name="Polygon Copy" d="M35.227,1.117,57.773,13.949A8.314,8.314,0,0,1,62,21.167V46.833a8.314,8.314,0,0,1-4.227,7.218L35.227,66.883a8.56,8.56,0,0,1-8.455,0L4.227,54.051A8.314,8.314,0,0,1,0,46.833V21.167a8.314,8.314,0,0,1,4.227-7.218L26.773,1.117A8.56,8.56,0,0,1,35.227,1.117Z" transform="translate(0)" fill="#22e0d7"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Polygon_Copy-3" data-name="Polygon Copy" d="M35.227,1.117,57.773,13.949A8.314,8.314,0,0,1,62,21.167V46.833a8.314,8.314,0,0,1-4.227,7.218L35.227,66.883a8.56,8.56,0,0,1-8.455,0L4.227,54.051A8.314,8.314,0,0,1,0,46.833V21.167a8.314,8.314,0,0,1,4.227-7.218L26.773,1.117A8.56,8.56,0,0,1,35.227,1.117Z" transform="translate(0)" fill="#313bd0"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-0.153)">
+    <g id="Group" transform="translate(126 77)">
+      <path id="Polygon_Copy_2" data-name="Polygon Copy 2" d="M280,17.324a60,60,0,0,1,60.005,0L590,161.679a60,60,0,0,1,30,51.96V502.361a60,60,0,0,1-30,51.96L340,698.676a60,60,0,0,1-60.005,0L30,554.321a60,60,0,0,1-30-51.96V213.639a60,60,0,0,1,30-51.96Z" fill="none" stroke="#22e0d7" stroke-miterlimit="10" stroke-width="3"/>
+      <g id="Group_10" data-name="Group 10" transform="translate(50 58)">
+        <path id="Polygon_Copy_6-2" data-name="Polygon Copy 6" d="M240,11.547a40,40,0,0,1,40,0L500,138.564a40,40,0,0,1,20,34.641V427.239a40,40,0,0,1-20,34.641L280,588.9a40,40,0,0,1-40,0L20,461.88A40,40,0,0,1,0,427.239V173.205a40,40,0,0,1,20-34.641Z" fill="#313bd0"/>
+        <g id="Group_10-2" data-name="Group 10" clip-path="url(#clip-path)">
+          <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M259.5,0l.5,300L0,150Z" transform="translate(0)" fill="#3a44de"/>
+          <path id="Rectangle_Copy_7" data-name="Rectangle Copy 7" d="M260,150,0,300V0Z" transform="translate(260 0)" fill="#313bd0"/>
+          <path id="Rectangle_Copy_8" data-name="Rectangle Copy 8" d="M260,299,0,150,260,0Z" transform="translate(260 150)" fill="#3a44de"/>
+          <path id="Rectangle_Copy_9" data-name="Rectangle Copy 9" d="M0,299V0L260,150Z" transform="translate(0 150)" fill="#313bd0"/>
+          <path id="Rectangle_Copy_10" data-name="Rectangle Copy 10" d="M259.5,300.444,0,149,260,0Z" transform="translate(0 300)" fill="#3a44de"/>
+          <path id="Rectangle_Copy_11" data-name="Rectangle Copy 11" d="M260.5,149,0,300.444.5,0Z" transform="translate(259.5 300)" fill="#313bd0"/>
+          <text id="Develop_Strategy" data-name="Develop Strategy" transform="translate(106.07 171.58) rotate(-30)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Develop Strategy</tspan></text>
+          <text id="Create_a_Roadmap" data-name="Create a Roadmap" transform="translate(299.811 106.58) rotate(30)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Create a Roadmap</tspan></text>
+          <text id="Evaluate_Organisatio" data-name="Evaluate Organisatio" transform="translate(88.089 428.08) rotate(30)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Evaluate Organisational</tspan></text>
+          <text id="Create_Key_Messages" data-name="Create Key Messages" transform="translate(286.218 502.33) rotate(-30)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Create Key Messages</tspan></text>
+          <text id="Create_a_Programme" data-name="Create a Programme" transform="translate(449.5 222.5) rotate(90)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Create a Programme</tspan></text>
+          <text id="Increase_Organisatio" data-name="Increase Organisatio" transform="translate(71.5 388.5) rotate(-90)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Increase Organisational</tspan></text>
+          <path id="Polygon_Copy-4" data-name="Polygon Copy" d="M95,8.66a30,30,0,0,1,30,0l80,46.188a30,30,0,0,1,15,25.981v92.376a30,30,0,0,1-15,25.981l-80,46.188a30,30,0,0,1-30,0L15,199.186A30,30,0,0,1,0,173.205V80.829A30,30,0,0,1,15,54.848Z" transform="translate(150 173)" fill="#22e0d7"/>
+          <text id="Enhance_your_Strateg" data-name="Enhance your Strateg" transform="translate(195 270)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="5.954" y="22">Enhance your </tspan><tspan x="29.211" y="52">Strategy</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(352)">
+      <circle id="Oval" cx="84" cy="84" r="84" fill="#ff7058"/>
+      <text id="Consulting_Vision_" data-name="Consulting Vision &amp;" transform="translate(17 64)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="5.441" y="17">Consulting Vision </tspan></text>
+    </g>
+    <g id="Group_11-2" data-name="Group 11" transform="translate(721 581)">
+      <circle id="Oval-2" data-name="Oval" cx="25" cy="25" r="25" fill="#ff7058"/>
+      <g id="i-add" transform="translate(20 20)">
+        <path id="Path" d="M.5,0V10" transform="translate(4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-2" data-name="Path" d="M10,.5H0" transform="translate(0 4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_11-3" data-name="Group 11" transform="translate(103 583)">
+      <circle id="Oval-3" data-name="Oval" cx="25" cy="25" r="25" fill="#ff7058"/>
+      <g id="i-add-2" data-name="i-add" transform="translate(20 20)">
+        <path id="Path-3" data-name="Path" d="M.5,0V10" transform="translate(4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path-4" data-name="Path" d="M10,.5H0" transform="translate(0 4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Polygon_Copy_3" data-name="Polygon Copy 3" transform="matrix(0.966, 0.259, -0.259, 0.966, 725.474, 72.057)">
+      <path id="Polygon_Copy-5" data-name="Polygon Copy" d="M51.136,1.642,83.864,20.514A12.254,12.254,0,0,1,90,31.129V68.871a12.254,12.254,0,0,1-6.136,10.615L51.136,98.358a12.286,12.286,0,0,1-12.273,0L6.136,79.486A12.254,12.254,0,0,1,0,68.871V31.129A12.254,12.254,0,0,1,6.136,20.514L38.864,1.642A12.286,12.286,0,0,1,51.136,1.642Z" transform="translate(0)" fill="#22e0d7"/>
+      <g id="Polygon_Copy_3-2" data-name="Polygon Copy 3" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle" width="45" height="100" transform="translate(0.18 -0.231)" fill="#22e0d7"/>
+        <rect id="Rectangle_Copy_5" data-name="Rectangle Copy 5" width="45" height="100" transform="translate(44.82 0.231)" fill="#1ad3cb"/>
+        <path id="Rectangle-2" data-name="Rectangle" d="M0,0H90V23.573a6,6,0,0,1-3.294,5.355L54.019,45.443a20,20,0,0,1-18.038,0L3.294,28.929A6,6,0,0,1,0,23.573Z" transform="translate(-0.416 0.265)" fill="#12c6be"/>
+      </g>
+    </g>
+    <g id="Polygon_Copy_4" data-name="Polygon Copy 4" transform="matrix(0.996, 0.087, -0.087, 0.996, 796.081, 244.428)">
+      <path id="Polygon_Copy-6" data-name="Polygon Copy" d="M35.227,1.117,57.773,13.949A8.314,8.314,0,0,1,62,21.167V46.833a8.314,8.314,0,0,1-4.227,7.218L35.227,66.883a8.56,8.56,0,0,1-8.455,0L4.227,54.051A8.314,8.314,0,0,1,0,46.833V21.167a8.314,8.314,0,0,1,4.227-7.218L26.773,1.117A8.56,8.56,0,0,1,35.227,1.117Z" transform="translate(0)" fill="#22e0d7"/>
+      <g id="Polygon_Copy_4-2" data-name="Polygon Copy 4" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="31" height="68" transform="translate(-0.028 0.355)" fill="#22e0d7"/>
+        <rect id="Rectangle_Copy_5-2" data-name="Rectangle Copy 5" width="31" height="68" transform="translate(31.028 -0.355)" fill="#1ad3cb"/>
+        <path id="Rectangle-4" data-name="Rectangle" d="M0,0H62V14.827A6,6,0,0,1,58.678,20.2L39.926,29.548a20,20,0,0,1-17.852,0L3.322,20.2A6,6,0,0,1,0,14.827Z" transform="translate(-0.485 -0.022)" fill="#12c6be"/>
+      </g>
+    </g>
+    <g id="Polygon_Copy_5" data-name="Polygon Copy 5" transform="translate(0.153 512.055) rotate(-30)">
+      <path id="Polygon_Copy-7" data-name="Polygon Copy" d="M35.227,1.117,57.773,13.949A8.314,8.314,0,0,1,62,21.167V46.833a8.314,8.314,0,0,1-4.227,7.218L35.227,66.883a8.56,8.56,0,0,1-8.455,0L4.227,54.051A8.314,8.314,0,0,1,0,46.833V21.167a8.314,8.314,0,0,1,4.227-7.218L26.773,1.117A8.56,8.56,0,0,1,35.227,1.117Z" transform="translate(0)" fill="#313bd0"/>
+      <g id="Polygon_Copy_5-2" data-name="Polygon Copy 5" clip-path="url(#clip-path-4)">
+        <rect id="Rectangle-5" data-name="Rectangle" width="31" height="68" transform="translate(-0.028 0.355)" fill="#4e58ea"/>
+        <rect id="Rectangle_Copy_5-3" data-name="Rectangle Copy 5" width="31" height="68" transform="translate(31.028 -0.355)" fill="#3a44de"/>
+        <path id="Rectangle-6" data-name="Rectangle" d="M0,0H62V14.827A6,6,0,0,1,58.678,20.2L39.926,29.548a20,20,0,0,1-17.852,0L3.322,20.2A6,6,0,0,1,0,14.827Z" transform="translate(-0.485 -0.022)" fill="#313bd0"/>
+      </g>
+    </g>
+  </g>
+</svg>
